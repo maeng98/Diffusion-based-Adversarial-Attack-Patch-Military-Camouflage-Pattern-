@@ -19,6 +19,8 @@ Datasets
 5. stable diffusion 1.4 모델을 속도 등의 문제로 로컬로 다운받아 사용하였습니다.
 6. 폴더 구조
 ![화면 캡처 2025-09-29 142913](https://github.com/user-attachments/assets/35efcc89-e47a-4fbb-b44f-d898f8945fb4)
+7. 생성된 패치 lora 1.0
+![camoinria1 0new0 742](https://github.com/user-attachments/assets/6f1929e6-4bfd-4b43-a6f0-76e8c33ce3b2)
 
 
 문의: aod05062@gmail.com
