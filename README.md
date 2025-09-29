@@ -16,5 +16,6 @@ Datasets
 2. 패치 데이터셋 구성: INRIA VOC 구조(Train/Test의 {JPEGImages,Annotations} 또는 INRIAPerson/VOCdevkit/VOC2007/...)를 YOLO 형식으로 변환하고 640x640 letterbox 정규화, 패딩은 회색 패딩 이용
 3. LoRA 학습 시 활용한 자체 제작한 군복 크롭 50장 규모 614*614로 변환하여 사용
 4. 용량문제로 yolo 가중치 파일 등은 첨부하지 않았습니다.
+5. stable diffusion 1.4 모델을 속도 등의 문제로 로컬로 다운받아 사용하였습니다.
 
 문의: aod05062@gmail.com
