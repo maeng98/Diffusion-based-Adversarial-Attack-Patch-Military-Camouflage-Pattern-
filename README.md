@@ -17,5 +17,8 @@ Datasets
 3. LoRA 학습 시 활용한 자체 제작한 군복 크롭 50장 규모 614*614로 변환하여 사용
 4. 용량문제로 yolo 가중치 파일 등은 첨부하지 않았습니다.
 5. stable diffusion 1.4 모델을 속도 등의 문제로 로컬로 다운받아 사용하였습니다.
+6. 폴더 구조
+![화면 캡처 2025-09-29 142913](https://github.com/user-attachments/assets/35efcc89-e47a-4fbb-b44f-d898f8945fb4)
+
 
 문의: aod05062@gmail.com
