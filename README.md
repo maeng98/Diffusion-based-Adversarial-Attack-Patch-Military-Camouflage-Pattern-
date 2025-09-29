@@ -21,6 +21,8 @@ Datasets
 ![화면 캡처 2025-09-29 142913](https://github.com/user-attachments/assets/35efcc89-e47a-4fbb-b44f-d898f8945fb4)
 7. 생성된 패치 lora 1.0
 ![camoinria1 0new0 742](https://github.com/user-attachments/assets/6f1929e6-4bfd-4b43-a6f0-76e8c33ce3b2)
+8. 테스트 예시 이미지
+![3_png rf 085803fbc33e221224745c5a7a09a652](https://github.com/user-attachments/assets/c20f682e-6e1e-4c4e-aefa-72b62a36035a)
 
 
 문의: aod05062@gmail.com
